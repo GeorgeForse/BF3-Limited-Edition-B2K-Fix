@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         FixBF3BL
-// @namespace    http://example.com/
-// @version      1.0.0
+// @namespace    https://frae.io
+// @version      1.0.0a
 // @description  Fix BF3 Limited Edition B2K/Premium Servers
 // @author       MrGForse
 // @match        https://battlelog.battlefield.com/bf3/*
