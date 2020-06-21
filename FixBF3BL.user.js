@@ -22,4 +22,7 @@ function injectScript(originalPage) { //Function injectScript replaces the file
     document.close();
 }
 
-setTimeout(injectScript(document.documentElement.outerHTML), 1111);
+setTimeout(function() { // Initialise script and wait for HTML to load
+    console.log('Initialising...');
+    injectScript(document.documentElement.outerHTML);
+}, 1111);
