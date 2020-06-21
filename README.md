@@ -86,6 +86,12 @@ Once you have installed and enabled the Tampermonkey extension for your browser,
 
 The script is only active on ```https://battlelog.battlefield.com/bf3/*```, and all it does is replace the original file with the one hosted here (githack CDN). The changes ONLY include the fix for the Expansion Check. I encourage you to compare the original file with this one.
 
+### Result:
+
+If you have installed both the uBlock filter and Tampermonkey script correctly, you will now be able to join servers using B2K, as long as you are a legitimate owner of B2K or Battlefield 3 Limited Edition.
+
+![Success!](https://cdn.discordapp.com/attachments/164374781188243456/724336840114438174/unknown.png)
+
 ## Closing thoughts:
 #### If you, or someone you know, works at EA/DICE, please consider merging the changes to the Expansion Check. This will save EA countless customer support hours, and will make the experience for new Battlefield 3 Limited Edition users much less confusing.
 #### I will try to contact the developers myself through supported channels, however I appreciate that corporate structures sometimes prevent support staff from contacting developers directly.
