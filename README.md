@@ -1,8 +1,11 @@
 # Battlefield 3 Limited Edition Back To Karkand DLC Battlelog Fix
 
-### Disclaimer:
+## Disclaimer:
 
-#### I am not responsible for game bans or other issues that you may experience as a result of using this. 'BetterBattlelog' used similar methods, so I assume it's fine, but please know that you do so at your own risk.
+### Neither DICE nor the /r/Battlefield3 subreddit moderators have endorsed this fix, and, as a result, cannot be held responsible for any issues that may result from the use thereof.
+
+#### I am also not responsible for game bans or other issues that you may experience as a result of using this. 'BetterBattlelog' used similar methods, so I assume it's fine, but please be aware that you do so at your own risk.
+
 #### You MUST own Battlefield 3 Limited Edition for this fix to work. Make no attempt to try to use it without actually owning B2K, BF3 Premium or BF3 Limited Edition. You still need to own the DLC in some way, shape or form. This will not bypass Origin's DRM, and you should not make any attempt to do so.
 
 ## The problem:
