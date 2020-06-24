@@ -34,7 +34,7 @@ These are used in EA's original JavaScript file to check for DLC ownership of Ba
 
 I will refer to this as the "Expansion Check". Interestingly, the other DLCs only have two entries.
 
-A common workaround is to use a browser with PAPI/NPAPI Plug-In support, such as Microsoft Internet Explorer. This is not a good option in my opinion for various reasons which I won't delve into, considering PAPI/NPAPI plugin support has been absent in modern browsers for 4+ years. Internet Explorer is probably an incredibly difficult piece of software to get working for anyone using SteamPlay/Proton/WINE...
+A common workaround is to use a browser with PPAPI/NPAPI Plug-In support, such as Microsoft Internet Explorer. This is not a good option in my opinion for various reasons which I won't delve into, considering PPAPI/NPAPI plugin support has been absent in modern browsers for 4+ years. Internet Explorer is probably an incredibly difficult piece of software to get working for anyone using SteamPlay/Proton/WINE...
 
 ## The Fix:
 
