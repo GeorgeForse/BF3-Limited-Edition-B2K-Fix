@@ -1,5 +1,9 @@
 # Battlefield 3 Limited Edition Back To Karkand DLC Battlelog Fix
 
+## UPDATE - 2020-09-06
+
+### Looks like EA/DICE have fixed the issue on their end. Thank you to everyone who sent this over to various EA/DICE employees, and thank you to EA/DICE for fixing the issue officially. This script is no longer necessary, however I will leave it up as part of my portfolio.
+
 ## Disclaimer:
 
 ### Neither DICE nor the /r/Battlefield3 subreddit moderators have endorsed this fix, and, as a result, cannot be held responsible for any issues that may result from the use thereof.
