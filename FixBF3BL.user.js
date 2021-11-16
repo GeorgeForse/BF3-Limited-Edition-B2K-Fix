@@ -11,7 +11,7 @@
 // The below code will replace all relevant hosted JS assets with custom ones.
 
 //438223020
-const old_data = "//eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/generated/en_US/bundle_base_bottombundles_438223020.js";
+const old_data = /\/\/eaassets-a.akamaihd.net\/bl-cdn\/cdnprefix\/production-\d+-\d+\/public\/generated\/en_US\/bundle_base_bottombundles_438223020.js/;
 const new_data = "https://rawcdn.githack.com/MrGForse/BF3-Limited-Edition-B2K-Fix/8195622f9f148613d512b1a375eb2cb68f245a27/bundle_base_bottombundles_438223020.js";
 
 function injectScript(originalPage) { //Function injectScript replaces the file
