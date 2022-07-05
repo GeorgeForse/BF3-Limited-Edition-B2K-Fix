@@ -79,10 +79,6 @@ Open your uBlock Origin Dashboard, click "Filter Lists", scroll down to the bott
 
 ```https://raw.githubusercontent.com/GeorgeForse/BF3-Limited-Edition-B2K-Fix/master/script-blocklist```
 
-Like this:
-
-![Image uBlock Origin Import](https://cdn.discordapp.com/attachments/164374781188243456/724307623851327488/unknown.png)
-
 Then click "Apply changes".
 
 ### 2. In Tampermonkey:
